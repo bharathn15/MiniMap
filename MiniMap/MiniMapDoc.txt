@@ -1,0 +1,11 @@
+About:
+> Minimap for 3D game.
+
+
+Requirements
+> UNITY 6000.0.50f1
+> URP 3D 
+
+Project Hierarchy:
+Asset
+  MiniMap
